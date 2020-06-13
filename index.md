@@ -1,5 +1,8 @@
 # Welcome to Erik Larsen's ePortfolio
 
+## Skill Demonstrations
+[Software Design and Engineering](https://github.com/emlarsen91/emlarsen91.github.io/blob/master/MerchandiseTracker.py)
+
 You can use the [editor on GitHub](https://github.com/emlarsen91/emlarsen91.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
