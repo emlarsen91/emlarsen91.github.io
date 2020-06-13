@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Welcome to Erik Larsen's ePortfolio
 
 You can use the [editor on GitHub](https://github.com/emlarsen91/emlarsen91.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
