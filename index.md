@@ -1,9 +1,9 @@
 # Welcome to Erik Larsen's ePortfolio
 
 ## Skill Demonstrations
-[Software Design and Engineering](https://github.com/emlarsen91/emlarsen91.github.io/blob/master/MerchandiseTracker.py)
+- [Software Design and Engineering](https://github.com/emlarsen91/emlarsen91.github.io/blob/master/MerchandiseTracker.py)
 
-[Database and API management](https://github.com/emlarsen91/emlarsen91.github.io/tree/master/Database%20Milestone)
+- [Database and API management](https://github.com/emlarsen91/emlarsen91.github.io/tree/master/Database%20Milestone)
 Note. Node js and additional libraries must be installed. Package.json includes the dependencies.
 
 You can use the [editor on GitHub](https://github.com/emlarsen91/emlarsen91.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
