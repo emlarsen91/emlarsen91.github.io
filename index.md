@@ -1,5 +1,11 @@
 # Welcome to Erik Larsen's ePortfolio
 
+## Professional Self Assessment
+[Self Assessment](https://github.com/emlarsen91/emlarsen91.github.io/blob/master/Larsen_ProfessionalSelfAssessment.pdf)
+
+## Code Review
+[Video](https://youtu.be/DOZ0EijYd04)
+
 ## Skill Demonstrations
 - [Software Design and Engineering](https://github.com/emlarsen91/emlarsen91.github.io/blob/master/MerchandiseTracker.py)
 
@@ -10,8 +16,6 @@ You can use the [editor on GitHub](https://github.com/emlarsen91/emlarsen91.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Code Review
-[Video](https://youtu.be/DOZ0EijYd04)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
